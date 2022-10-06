@@ -1,2 +1,2 @@
-0	string SCHOOL School data
-!:mimo School
+\n0 string SCHOOL School data\n!:mimo School
+file -C -m school.mg
